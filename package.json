@@ -1,0 +1,15 @@
+{
+  "name": "programacao_aplicativos",
+  "version": "1.0.0",
+  "description": "raw accel sigma hydra",
+  "main": "Aula0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
